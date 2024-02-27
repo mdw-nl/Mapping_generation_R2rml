@@ -14,6 +14,7 @@ This project maintains a dedicated `config_file` folder that hosts two distinct 
 
 Before utilizing this utility, please ensure you have met the following requirements:
 
+
 - Python 3.x
 - All requisite Python packages listed in `requirements.txt`
 
@@ -21,3 +22,8 @@ To install the necessary dependencies, execute the following command:
 
 ```bash
 pip install -r requirements.txt
+
+#TODO 
+- add requirements file
+- add logic for database use
+
