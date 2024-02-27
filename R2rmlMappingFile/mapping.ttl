@@ -1,0 +1,29 @@
+@prefix map: <http://mapping.local/>.
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex:<http://example.com/resource/>.
+<#TriplesMap1>
+    rr:logicalTable [ rr:tableName "ClinicalData" ];
+
+	rr:subjectMap [
+            rr:template "http://example.com/resource/patient{Subject ID}";
+            rr:class ex:Patient;
+        ];
+	rr:predicateObjectMap [
+            rr:predicate ex:Height;
+            rr:objectMap [ rr:column "height" ];
+        ];
+	rr:predicateObjectMap [
+            rr:predicate ex:Weight;
+            rr:objectMap [ rr:column "weight" ];
+        ];
+	rr:predicateObjectMap [
+            rr:predicate ex:Age;
+            rr:objectMap [ rr:column "Age" ];
+        ];
+	rr:predicateObjectMap [
+            rr:predicate ex:Smoker;
+            rr:objectMap [ rr:column "Smoker" ];
+        ].

@@ -1,0 +1,39 @@
+uri_section:
+  - prefix: ex
+    uri: <http://example.com/resource/>
+subject_section:
+  - id: 1
+    template: http://example.com/resource/patient
+    iri_class: ex
+    class_name: Patient
+    column: Subject ID
+
+predicate_section:
+  - id: 1
+    id_subj: 1
+    iri_predicate: ex
+    iri_value: Height
+    relation:
+    column: height
+
+  - id: 2
+    id_subj: 1
+    iri_predicate: ex
+    iri_value: Weight
+    relation:
+    column: weight
+
+  - id: 3
+    id_subj: 1
+    iri_predicate: ex
+    iri_value: Age
+    relation:
+    column: Age
+
+  - id: 4
+    id_subj: 1
+    iri_predicate: ex
+    iri_value: Smoker
+    relation:
+    column: Smoker
+

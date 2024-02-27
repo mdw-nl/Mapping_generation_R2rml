@@ -1,0 +1,236 @@
+@prefix ns1: <http://example.com/resource/> .
+
+ns1:patientRQ00001-2 a ns1:Patient ;
+    ns1:Age "62.0" ;
+    ns1:Height "164.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "78.0" .
+
+ns1:patientRQ00002-0 a ns1:Patient ;
+    ns1:Age "47.0" ;
+    ns1:Height "162.0" ;
+    ns1:Smoker "YES" ;
+    ns1:Weight "57.0" .
+
+ns1:patientRQ00004-9 a ns1:Patient ;
+    ns1:Age "56.0" ;
+    ns1:Height "171.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "82.0" .
+
+ns1:patientRQ00005-4 a ns1:Patient ;
+    ns1:Age "63.0" ;
+    ns1:Height "156.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "76.0" .
+
+ns1:patientRQ00006-5 a ns1:Patient ;
+    ns1:Age "68.0" ;
+    ns1:Height "164.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "59.0" .
+
+ns1:patientRQ00007-7 a ns1:Patient ;
+    ns1:Age "55.0" ;
+    ns1:Height "170.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "66.0" .
+
+ns1:patientRQ00008-3 a ns1:Patient ;
+    ns1:Age "60.0" ;
+    ns1:Height "163.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "57.0" .
+
+ns1:patientRQ00009-6 a ns1:Patient ;
+    ns1:Age "68.0" ;
+    ns1:Height "160.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "64.0" .
+
+ns1:patientRQ00010-6 a ns1:Patient ;
+    ns1:Age "46.0" ;
+    ns1:Height "160.0" ;
+    ns1:Smoker "YES" ;
+    ns1:Weight "59.0" .
+
+ns1:patientRQ00012-3 a ns1:Patient ;
+    ns1:Age "59.0" ;
+    ns1:Height "168.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "79.0" .
+
+ns1:patientRQ00013-4 a ns1:Patient ;
+    ns1:Age "52.0" ;
+    ns1:Height "171.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "76.0" .
+
+ns1:patientRQ00015-2 a ns1:Patient ;
+    ns1:Age "69.0" ;
+    ns1:Height "170.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "70.0" .
+
+ns1:patientRQ00016-8 a ns1:Patient ;
+    ns1:Age "58.0" ;
+    ns1:Height "160.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "51.0" .
+
+ns1:patientRQ00018-1 a ns1:Patient ;
+    ns1:Age "61.0" ;
+    ns1:Height "157.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "68.0" .
+
+ns1:patientRQ00019-9 a ns1:Patient ;
+    ns1:Age "64.0" ;
+    ns1:Height "165.0" ;
+    ns1:Smoker "YES" ;
+    ns1:Weight "68.0" .
+
+ns1:patientRQ00020-1 a ns1:Patient ;
+    ns1:Age "52.0" ;
+    ns1:Height "174.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "79.0" .
+
+ns1:patientRQ00021-7 a ns1:Patient ;
+    ns1:Age "42.0" ;
+    ns1:Height "172.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "57.0" .
+
+ns1:patientRQ00022-9 a ns1:Patient ;
+    ns1:Age "54.0" ;
+    ns1:Height "160.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "68.0" .
+
+ns1:patientRQ00024-0 a ns1:Patient ;
+    ns1:Age "73.0" ;
+    ns1:Height "167.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "59.0" .
+
+ns1:patientRQ00027-2 a ns1:Patient ;
+    ns1:Age "65.0" ;
+    ns1:Height "156.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "65.0" .
+
+ns1:patientRQ00029-3 a ns1:Patient ;
+    ns1:Age "76.0" ;
+    ns1:Height "167.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "68.0" .
+
+ns1:patientRQ00030-3 a ns1:Patient ;
+    ns1:Age "56.0" ;
+    ns1:Height "150.0" ;
+    ns1:Smoker "YES" ;
+    ns1:Weight "96.0" .
+
+ns1:patientRQ00033-5 a ns1:Patient ;
+    ns1:Age "57.0" ;
+    ns1:Height "156.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "59.0" .
+
+ns1:patientRQ00035-7 a ns1:Patient ;
+    ns1:Age "57.0" ;
+    ns1:Height "159.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "65.0" .
+
+ns1:patientRQ00036-1 a ns1:Patient ;
+    ns1:Age "57.0" ;
+    ns1:Height "168.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "88.0" .
+
+ns1:patientRQ00037-4 a ns1:Patient ;
+    ns1:Age "72.0" ;
+    ns1:Height "165.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "89.0" .
+
+ns1:patientRQ00038-8 a ns1:Patient ;
+    ns1:Age "78.0" ;
+    ns1:Height "158.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "58.0" .
+
+ns1:patientRQ00040-5 a ns1:Patient ;
+    ns1:Age "63.0" ;
+    ns1:Height "164.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "87.0" .
+
+ns1:patientRQ00041-4 a ns1:Patient ;
+    ns1:Age "60.0" ;
+    ns1:Height "159.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "54.0" .
+
+ns1:patientRQ00042-2 a ns1:Patient ;
+    ns1:Age "71.0" ;
+    ns1:Height "163.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "75.0" .
+
+ns1:patientRQ00043-3 a ns1:Patient ;
+    ns1:Age "59.0" ;
+    ns1:Height "168.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "76.0" .
+
+ns1:patientRQ00044-6 a ns1:Patient ;
+    ns1:Age "57.0" ;
+    ns1:Height "168.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "84.0" .
+
+ns1:patientRQ00047-9 a ns1:Patient ;
+    ns1:Age "49.0" ;
+    ns1:Height "161.0" ;
+    ns1:Smoker "YES" ;
+    ns1:Weight "67.0" .
+
+ns1:patientRQ00048-0 a ns1:Patient ;
+    ns1:Age "56.0" ;
+    ns1:Height "165.0" ;
+    ns1:Smoker "YES" ;
+    ns1:Weight "92.0" .
+
+ns1:patientRQ00049-8 a ns1:Patient ;
+    ns1:Age "50.0" ;
+    ns1:Height "169.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "71.0" .
+
+ns1:patientRQ00052-4 a ns1:Patient ;
+    ns1:Age "70.0" ;
+    ns1:Height "169.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "82.0" .
+
+ns1:patientRQ00054-8 a ns1:Patient ;
+    ns1:Age "57.0" ;
+    ns1:Height "163.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "72.0" .
+
+ns1:patientRQ00055-3 a ns1:Patient ;
+    ns1:Age "60.0" ;
+    ns1:Height "169.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "70.0" .
+
+ns1:patientRQ00058-2 a ns1:Patient ;
+    ns1:Age "64.0" ;
+    ns1:Height "158.0" ;
+    ns1:Smoker "NO" ;
+    ns1:Weight "64.0" .
+

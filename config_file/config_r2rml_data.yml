@@ -1,0 +1,7 @@
+data source:
+  - type_data: csv
+    path_data: /Users/alessioromita/PRE_ACT/Example_dataset_preact.csv
+    db_uri:
+mapping:
+  - path: ./R2rmlMappingFile/mapping.ttl
+
